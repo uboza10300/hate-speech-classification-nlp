@@ -60,3 +60,37 @@ Dataset paper: https://arxiv.org/abs/2012.10289
 
 ## Project Structure
 
+src/ Training and evaluation scripts
+data/ Processed datasets and predictions
+results/ Model outputs and visualizations
+report/ Final project report
+
+
+## Setup
+
+### Requirements
+
+- Python 3.8+
+- PyTorch
+- Transformers (Hugging Face)
+- NumPy
+- pandas
+- scikit-learn
+
+Install dependencies:
+
+```bashd
+pip install -r requirements.txt
+```
+
+## Running the Project
+```bashd
+pyton src/train_gpt2.py
+```
+
+## Report
+See the full project report for detailed methodology and results:
+```bashd
+report/Fine Tuning Small Models for Hate Speech Classification A.pdf
+```
+
