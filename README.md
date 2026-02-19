@@ -91,6 +91,6 @@ pyton src/train_gpt2.py
 ## Report
 See the full project report for detailed methodology and results:
 ```bashd
-report/Fine Tuning Small Models for Hate Speech Classification A.pdf
+result/Fine Tuning Small Models for Hate Speech Classification A.pdf
 ```
 
